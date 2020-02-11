@@ -1,0 +1,3 @@
+@Imports W19_Riera1WebAPI.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
